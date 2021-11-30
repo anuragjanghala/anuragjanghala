@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Lean Website
+- 🌱 I’m currently learning Django and ReactJs
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
