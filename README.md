@@ -30,5 +30,5 @@ So far, I've Bootstrap, HTML, CSS, Python, Flask, Django, MongoDB, MySQL, Git/Gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
 
