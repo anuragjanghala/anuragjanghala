@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Anurag Janghala
 #### I am full stack web developer
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anuragjanghala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anuragjanghala/)  
-![I am full stack web developer](https://avatars.githubusercontent.com/u/42205669?s=400&u=d850b9cceedd6ec159030221a20dc05b99ec77a2&v=4)
+![I am full stack web developer]
 
 Ever since I was a kid, I'd always wondered how things work on the internet which made me eager to learn something about how the internet works and that's when I learned to create web pages for the first time. Gradually, learned full-stack Web Development practicing various courses on the online platform.
 
