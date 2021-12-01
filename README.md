@@ -27,6 +27,8 @@ This passion carried me to my education in the field of Computer Engineering at 
 
 So far, I've Bootstrap, HTML, CSS, Python, Flask, Django, MongoDB, MySQL, Git/GitHub under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my mind.
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala)](https://github.com/anuraghazra/github-readme-stats)
 
