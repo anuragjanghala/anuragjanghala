@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 
 
@@ -31,5 +31,6 @@ So far, I've Bootstrap, HTML, CSS, Python, Flask, Django, MongoDB, MySQL, Git/Gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragjanghala&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anuragjanghala)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragjanghala&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
