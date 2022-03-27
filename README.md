@@ -72,8 +72,9 @@ So far, I've Bootstrap, HTML, CSS, Python, Flask, Django, MongoDB, MySQL, Git/Gi
 <p align="left">
 <a href="https://github.com/anuragjanghala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Github" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/anuragjanghala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://www.janghala.xyz/" target="blank">My Personal Website</a>
 </p>
+  
+ 📫 How to reach me: <a href="https://www.janghala.xyz/" target="blank">My Personal Website</a>
 
 <hr/>
 
