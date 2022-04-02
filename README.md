@@ -22,7 +22,7 @@ So far, I've Bootstrap, HTML, CSS, Python, Flask, Django, MongoDB, MySQL, Git/Gi
 -->
 
 <h1 align="center">Hi there 👋, my name is Anurag Janghala</h1>
-<h3 align="center">I am full stack web developer</h3>
+<h3 align="center">I am full stack developer</h3>
 
 <br/>
 
