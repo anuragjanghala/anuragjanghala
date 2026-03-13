@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING SVG — MYSTERIOUS -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1500&color=8A8A8A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%96%88%E2%96%88+The+cave+is+dark.+The+code+compiles.+%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+I+build+platforms.+I+break+monoliths.+%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+Not+the+hero+devs+want%2C+but+the+one+they+need.+%E2%96%88%E2%96%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=8A8A8A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%96%88%E2%96%88+The+cave+is+dark.+The+code+compiles.+%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+I+build+platforms.+I+break+monoliths.+%E2%96%88%E2%96%88;%E2%96%88%E2%96%88+Not+the+hero+devs+want%2C+but+the+one+they+need.+%E2%96%88%E2%96%88" alt="Typing SVG" /></a>
 
 <br/><br/>
 
