@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- STALKER COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=1a1a1a&labelColor=0a0a0a&label=intruders+detected" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=anuragjanghala&style=flat-square&color=1a1a1a&labelColor=0a0a0a&label=intruders+detected" alt="Profile Views"/>
 
 </div>
 
