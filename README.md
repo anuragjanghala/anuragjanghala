@@ -117,22 +117,6 @@ redacted: "███████████████████████
 
 ---
 
-### 🐍 Contribution Grid Elimination Protocol
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragjanghala/anuragjanghala/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragjanghala/anuragjanghala/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anuragjanghala/anuragjanghala/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> *⚙️ Requires [snk action](https://github.com/Platane/snk) setup in your profile repo*
-
----
-
 ### 🗂️ Classified Files
 
 <details>
